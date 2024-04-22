@@ -1,0 +1,83 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\99455\\source\\repos\\sinifTasktekrar\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{459A2B71-71B9-41F6-A5E6-52580FE2E52D}|sinifTasktekrar\\sinifTasktekrar.csproj|c:\\users\\99455\\source\\repos\\siniftasktekrar\\siniftasktekrar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{459A2B71-71B9-41F6-A5E6-52580FE2E52D}|sinifTasktekrar\\sinifTasktekrar.csproj|solutionrelative:siniftasktekrar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{459A2B71-71B9-41F6-A5E6-52580FE2E52D}|sinifTasktekrar\\sinifTasktekrar.csproj|C:\\Users\\99455\\source\\repos\\sinifTasktekrar\\siniftasktekrar\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{459A2B71-71B9-41F6-A5E6-52580FE2E52D}|sinifTasktekrar\\sinifTasktekrar.csproj|solutionrelative:siniftasktekrar\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{459A2B71-71B9-41F6-A5E6-52580FE2E52D}|sinifTasktekrar\\sinifTasktekrar.csproj|C:\\Users\\99455\\source\\repos\\sinifTasktekrar\\siniftasktekrar\\models\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{459A2B71-71B9-41F6-A5E6-52580FE2E52D}|sinifTasktekrar\\sinifTasktekrar.csproj|solutionrelative:siniftasktekrar\\models\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Group.cs",
+              "DocumentMoniker": "C:\\Users\\99455\\source\\repos\\sinifTasktekrar\\sinifTasktekrar\\Models\\Group.cs",
+              "RelativeDocumentMoniker": "sinifTasktekrar\\Models\\Group.cs",
+              "ToolTip": "C:\\Users\\99455\\source\\repos\\sinifTasktekrar\\sinifTasktekrar\\Models\\Group.cs",
+              "RelativeToolTip": "sinifTasktekrar\\Models\\Group.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T22:31:47.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\99455\\source\\repos\\sinifTasktekrar\\sinifTasktekrar\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "sinifTasktekrar\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\99455\\source\\repos\\sinifTasktekrar\\sinifTasktekrar\\Models\\Student.cs",
+              "RelativeToolTip": "sinifTasktekrar\\Models\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T22:26:46.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\99455\\source\\repos\\sinifTasktekrar\\sinifTasktekrar\\Program.cs",
+              "RelativeDocumentMoniker": "sinifTasktekrar\\Program.cs",
+              "ToolTip": "C:\\Users\\99455\\source\\repos\\sinifTasktekrar\\sinifTasktekrar\\Program.cs",
+              "RelativeToolTip": "sinifTasktekrar\\Program.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwBYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T22:26:19.677Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 66,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

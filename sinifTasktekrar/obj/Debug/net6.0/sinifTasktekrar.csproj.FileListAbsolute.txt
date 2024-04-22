@@ -1,0 +1,14 @@
+C:\Users\99455\source\repos\sinifTasktekrar\sinifTasktekrar\bin\Debug\net6.0\sinifTasktekrar.exe
+C:\Users\99455\source\repos\sinifTasktekrar\sinifTasktekrar\bin\Debug\net6.0\sinifTasktekrar.deps.json
+C:\Users\99455\source\repos\sinifTasktekrar\sinifTasktekrar\bin\Debug\net6.0\sinifTasktekrar.runtimeconfig.json
+C:\Users\99455\source\repos\sinifTasktekrar\sinifTasktekrar\bin\Debug\net6.0\sinifTasktekrar.dll
+C:\Users\99455\source\repos\sinifTasktekrar\sinifTasktekrar\bin\Debug\net6.0\sinifTasktekrar.pdb
+C:\Users\99455\source\repos\sinifTasktekrar\sinifTasktekrar\obj\Debug\net6.0\sinifTasktekrar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\99455\source\repos\sinifTasktekrar\sinifTasktekrar\obj\Debug\net6.0\sinifTasktekrar.AssemblyInfoInputs.cache
+C:\Users\99455\source\repos\sinifTasktekrar\sinifTasktekrar\obj\Debug\net6.0\sinifTasktekrar.AssemblyInfo.cs
+C:\Users\99455\source\repos\sinifTasktekrar\sinifTasktekrar\obj\Debug\net6.0\sinifTasktekrar.csproj.CoreCompileInputs.cache
+C:\Users\99455\source\repos\sinifTasktekrar\sinifTasktekrar\obj\Debug\net6.0\sinifTasktekrar.dll
+C:\Users\99455\source\repos\sinifTasktekrar\sinifTasktekrar\obj\Debug\net6.0\refint\sinifTasktekrar.dll
+C:\Users\99455\source\repos\sinifTasktekrar\sinifTasktekrar\obj\Debug\net6.0\sinifTasktekrar.pdb
+C:\Users\99455\source\repos\sinifTasktekrar\sinifTasktekrar\obj\Debug\net6.0\sinifTasktekrar.genruntimeconfig.cache
+C:\Users\99455\source\repos\sinifTasktekrar\sinifTasktekrar\obj\Debug\net6.0\ref\sinifTasktekrar.dll
